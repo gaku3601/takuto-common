@@ -1,5 +1,5 @@
 {
-      'area':'大阪','content':[
+      {'area':'大阪','content':[
         {'url':'http://www.takuto-net.com','title':'大阪お部屋探しネット'},
         {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'住コンシェル宅都'},
         {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと'},
