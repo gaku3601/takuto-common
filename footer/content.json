@@ -1,0 +1,23 @@
+{
+      'area':'大阪','content':[
+        {'url':'http://www.takuto-net.com','title':'大阪お部屋探しネット'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'住コンシェル宅都'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと2'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと３'}
+      ]},
+      {'area':'京都','content':[
+        {'url':'http://www.takuto-net.com','title':'大阪お部屋探しネット'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'住コンシェル宅都'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと2'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと３'}
+      ]},
+      {'area':'奈良','content':[
+        {'url':'http://www.takuto-net.com','title':'大阪お部屋探しネット'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'住コンシェル宅都'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと2'},
+        {'url':'https://www.takuto-holdings.com/ju-concier/osaka','title':'てすと３'}
+      ]
+}
